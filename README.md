@@ -1,6 +1,8 @@
 # NaoRobot
 Several Introductory programs for the Nao
 
+To open a file, download and open the .pml file with Choreographe
+
 Walk.pml 
 This program allows the robot to walk forward and backwards, and to perform Tai Chi when given verbal commands
 
